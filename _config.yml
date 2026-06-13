@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1696872603102.jpeg"
   name             : "Afsara Tasnim"
   pronouns         : # example: "she/her"  
   bio              : "AI researcher exploring how LLMs work internally"
