@@ -8,6 +8,7 @@ date: 2023-10-01
 venue: '26th International Conference on Computer and Information Technology (ICCIT)'
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10441352'
-citation: 'Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, G. M. Shahariar'
+citation: #'Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, G. M. Shahariar'
 ---
+Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, G. M. Shahariar
 
