@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="{{ '/assets/files/CV_Afsara_Tasnim.pdf'}}" target="_blank">
+  View my CV
+</a>
 
 Education
 ======
