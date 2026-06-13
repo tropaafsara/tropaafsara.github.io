@@ -8,6 +8,6 @@ date: 2023-10-01
 venue: '26th International Conference on Computer and Information Technology (ICCIT)'
 slidesurl: #'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10441352'
-citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, G. M. Shahariar'
 ---
 
