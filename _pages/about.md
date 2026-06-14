@@ -1,4 +1,12 @@
 
+---
+permalink: /
+title: "👋🏻 Hello there, I'm Afsara"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 *“Was there anything more exciting in life than seeking answers?”* — Prelude to Foundation, Isaac Asimov
 
