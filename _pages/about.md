@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I'm an independent researcher.
+👩🏻‍💻 I'm a Computer Science & Engineering graduate from Ahsanullah University of Science & Technology and an independent AI researcher.
 
-🔬 My research interests lie in natural language processing, large language model evaluation, responsible AI and Computer Vision.
+🔬 My research interests lie in natural language processing (NLP), large language model evaluation, responsible AI and Computer Vision.
 
-📚 I am currently working on addressing challenges related to bias, hallucination, and the reliability of large language models.
+📚 I am currently working on addressing challenges related to bias, hallucination, and the reliability of large language models (LLMs).
 
 
 
