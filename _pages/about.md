@@ -15,9 +15,10 @@ redirect_from:
 
 ## News
 
-- **Jun 2026** — Paper accepted at the 6th Muslims in ML Workshop (MuSIML) at ICML 2026.
-- **May 2026** — Admitted to the M.S. in Computer Science program at Northeastern University.
-- **Dec 2024** — Published research on cervical cancer cell classification using supervised contrastive learning.
+- **Jun 2026** — New paper! We introduce BaSCo, a Bangla benchmark for evaluating social bias and cultural reasoning in LLMs, with 2,448 paired instances across age, gender, and hierarchical relationships. We study how different prompting strategies affect bias, cultural reasoning, and abstention in LLMs.(Accepted at the 6th MuSIML Workshop at ICML 2026)
+- **Jan 2026** — New paper! We study zero-shot poem summarization using five state-of-the-art LLMs and evaluate them with both automatic metrics (ROUGE, BERTScore) and an LLM-as-a-Judge framework.(Published at ICECTE 2026)
+- **Aug 2025** — Joined Ecomfixr as a junior web developer.
+- **Dec 2023** — New paper! We propose an efficient cervical cancer cell classification system using fine-tuned pre-trained CNNs with cost-sensitive learning and supervised contrastive learning. Evaluated on the SIPaKMeD dataset, the model achieves 97.29% accuracy, and we incorporate explainable AI techniques to improve interpretability and trustworthiness.(Published at ICCIT 2023)
 
 
 
