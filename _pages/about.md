@@ -9,9 +9,9 @@ redirect_from:
 
 👩🏻‍💻 I'm a Computer Science & Engineering graduate from Ahsanullah University of Science & Technology and an independent AI researcher.
 
-🔬 My research interests lie in the natural language processing (NLP), large language model evaluation, responsible AI, and Computer Vision.
+🔬 My research interests lie in Natural Language Processing (NLP), Large Language Model (LLM), Responsible AI, Bias & Fairness, and Computer Vision.
 
-📚 I am currently working on addressing challenges related to bias, hallucination, and the reliability of large language models (LLMs).
+📚 I am currently working on addressing challenges related to bias, hallucination, and the reliability of large language models (LLMs). I am especially interested in research that connects strong methodology with social impact in multilingual and underrepresented languages and communities.
 
 ## News
 
