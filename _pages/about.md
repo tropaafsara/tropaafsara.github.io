@@ -1,13 +1,6 @@
-*“Was there anything more exciting in life than seeking answers?”* — Prelude to Foundation, Isaac Asimov
----
-permalink: /
-title: "👋🏻 Hello there, I'm Afsara"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+
+*“Was there anything more exciting in life than seeking answers?”* — Prelude to Foundation, Isaac Asimov
 
 👩🏻‍💻 I'm a Computer Science & Engineering graduate from Ahsanullah University of Science & Technology and an independent AI researcher.
 
