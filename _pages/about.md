@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-*“Was there anything more exciting in life than seeking answers?”* — Prelude to Foundation, Isaac Asimov
-
 👩🏻‍💻 I'm a Computer Science & Engineering graduate from Ahsanullah University of Science & Technology and an independent AI researcher.
 
 🔬 My research interests lie in the natural language processing (NLP), large language model evaluation, responsible AI, and Computer Vision.
