@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="{{ '/files/CV_Afsara_Tasnim.pdf'}}" target="_blank">
+<a href="{{ '/files/Resume_Afsara_Tasnim.pdf'}}" target="_blank">
   View my CV
 </a>
 
